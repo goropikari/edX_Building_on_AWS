@@ -1,6 +1,4 @@
 #!/bin/bash -ex
-#
-# This script is provided by a edX course: AWS Developer: Building on AWS
 sudo yum update -y
 sudo pip install flask
 sudo pip install requests
